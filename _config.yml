@@ -16,10 +16,11 @@
 title: Simply Made Apps
 
 # Build settings
-markdown: kramdown
-theme: minima
-gems:
-  - jekyll-feed
 exclude:
   - Gemfile
   - Gemfile.lock
+gems:
+  - jekyll-feed
+markdown: kramdown
+permalink: /blog/:year/:month/:title
+theme: minima
