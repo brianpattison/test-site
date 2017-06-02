@@ -22,5 +22,5 @@ exclude:
 gems:
   - jekyll-feed
 markdown: kramdown
-permalink: /blog/:year/:month/:title
+permalink: /blog/:year/:month/:title/
 theme: minima
